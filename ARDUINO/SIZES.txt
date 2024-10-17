@@ -1,0 +1,18 @@
+DOF9
+largo = 38
+alto = 22.5
+ancho = 1.5
+orificios = 2
+
+BMP388
+largo = 21
+alto = 16
+ancho = 1.5
+orificios = 2
+
+NANO
+largo = 43
+alto = 18
+ancho = 1
+orificios = 15
+outside-usb = 1
